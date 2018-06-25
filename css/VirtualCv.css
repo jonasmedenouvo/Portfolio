@@ -1,0 +1,62 @@
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+
+}
+
+/*#home{*/
+    /*text-align: center;*/
+    /*!*margin-top: 45%;*!*/
+/*}*/
+.zone1
+{
+
+    /*box-sizing: border-box;*/
+
+}
+
+.form-control{
+
+    background: #1b1e21 !important;
+
+}
+
+::placeholder{
+    color: white !important;
+
+}
+
+.firstSection{
+
+    background: url(http://bartoncareeradvisors.com/wp-content/uploads/2015/09/unique-selling-proposition.jpg) no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-top: 3%;
+    padding-top: 15%;
+    /*height: 100%;*/
+    width: 100%;
+}
+
+#Techno{
+
+    padding-top: 15%;
+
+}
+.secondSection{
+
+    background-image: url(https://i.imgur.com/nWztLi5.jpg);
+    background-repeat:no-repeat;
+    height: 100%;
+    width: 100%;
+}
